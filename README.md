@@ -256,15 +256,15 @@ Building a strong foundation in programming, artificial intelligence, machine le
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnapratapsingh788-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnapratapsingh788-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapratapsingh788-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapratapsingh788-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapratapsingh788-eng&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapratapsingh788-eng&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD" width="100%"/>
 </p>
 
 ---
@@ -272,7 +272,7 @@ Building a strong foundation in programming, artificial intelligence, machine le
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnapratapsingh788-eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnapratapsingh788-eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 </p>
 
 ---
