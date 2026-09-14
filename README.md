@@ -1,191 +1,329 @@
-<h1 align="center">Hi 👋, I'm Krishna Pratap Singh</h1>
-
-<h3 align="center">B.Tech AI/ML Student • Aspiring Machine Learning Engineer • Builder</h3>
+# Krishna Pratap Singh
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Python+%7C+C+%7C+Web+Development;Building+AI-powered+Projects;Learning+DSA+%26+Machine+Learning;Future+Machine+Learning+Engineer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Krishna%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-AI%2FML-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MUIT-Lucknow-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/India-111827?style=for-the-badge" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=B.Tech+AI%2FML+Student;Aspiring+AI+Engineer;Software+Engineering+Enthusiast;Python+%7C+DSA+%7C+AI%2FML;Building+Practical+AI-Powered+Products" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%2FML-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUIT-Lucknow-4C1D95?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/krishnapratapsingh788-eng">
-    <img src="https://img.shields.io/badge/GitHub-Profile-18181B?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnapratapsingh788-eng&label=Profile%20Views&color=7C3AED&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/krishnapratapsingh788-eng?label=Followers&style=flat-square&color=6366F1" />
-  <img src="https://img.shields.io/github/stars/krishnapratapsingh788-eng?label=Stars&style=flat-square&color=8B5CF6" />
+  <img src="https://komarev.com/ghpvc/?username=krishnapratapsingh788-eng&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/krishnapratapsingh788-eng?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
+  <img src="https://img.shields.io/github/stars/krishnapratapsingh788-eng?label=STARS&style=flat-square&color=312E81"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-- 🧠 Currently strengthening my foundation in **Python, DSA and Machine Learning**
-- 💻 Interested in **AI/ML, automation, full-stack applications and problem solving**
-- 🚀 Building practical projects to turn ideas into working products
-- ☁️ Exploring **Google Cloud, AI tools and modern developer technologies**
-- 🔨 Interested in solving real-world problems through technology
-- 🎯 Long-term goal: become a **Machine Learning Engineer**
+I am a **B.Tech Artificial Intelligence & Machine Learning student** focused on building strong foundations in software engineering, programming, problem solving, data structures, and applied AI/ML.
+
+Currently, I am developing my skills in **Python, DSA, SQL, web development, databases, cloud technologies, and AI-powered application development**.
+
+I enjoy turning ideas into practical products and exploring modern development workflows, including AI-assisted development and vibe coding.
+
+My goal is to grow into an **AI Engineer / Software Engineer** capable of designing, building, and deploying useful technology products.
+
+### Open To
+
+- AI/ML Projects
+- Software Engineering Opportunities
+- Open Source Contributions
+- Hackathons
+- Technical Competitions
+- Student Developer Programs
+- Collaborative Projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### Programming
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css&theme=dark"/>
 </p>
 
-### Web Development
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter&theme=dark"/>
 </p>
 
-### AI / ML
+### Backend & Databases
 
 <p>
-<img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=googlecloud&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Computer_Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-<img src="https://img.shields.io/badge/OCR-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" />
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,postgres&theme=dark"/>
 </p>
 
-### Database & Backend
+### Cloud, DevOps & Tools
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/Android_Studio-111827?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,googlecloud&theme=dark"/>
 </p>
 
 ---
 
-## 🤖 AI / ML Expertise
+## AI / ML Expertise
 
-| Area | Focus |
-|---|---|
-| 🐍 Python | Programming & problem solving |
-| 🧩 DSA | Data Structures & Algorithms |
-| 🤖 Machine Learning | ML fundamentals & applications |
-| 👁️ Computer Vision | Image analysis |
-| 📝 OCR | Document text extraction |
-| 🔍 AI Detection | Anomaly & suspicious-pattern detection |
-| 🧠 Generative AI | AI-powered applications |
-| ☁️ Cloud AI | Cloud-based AI technologies |
+| Domain | Level | Focus |
+|---|---|---|
+| Python for AI/ML | Beginner | Programming and problem solving |
+| Machine Learning | Beginner | Core ML concepts and workflows |
+| Artificial Intelligence | Beginner | Practical AI applications |
+| Data Structures & Algorithms | Learning | DSA with Python |
+| Computer Vision | Learning | Image and document analysis |
+| OCR & Document AI | Learning | Intelligent document verification |
+| Generative AI | Learning | AI-powered application development |
+| Data Analysis | Learning | Data handling and analytical thinking |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>💰 FoodSpend AI — Smart Expense Tracking</b></summary>
+<summary><strong>FoodSpend AI — AI-Powered Expense Tracker</strong></summary>
 
-An AI-powered expense tracking concept designed to consolidate food and e-commerce spending from multiple sources.
+FoodSpend AI is an application concept designed to help users track spending across food, grocery, and e-commerce platforms.
 
-| Category | Details |
+| Attribute | Details |
 |---|---|
-| **Stack** | Flutter • Supabase • AI • Gmail • Android |
-| **Data Sources** | Gmail receipts • SMS • Manual entries |
-| **Features** | Expense tracking • Merchant detection • Categories • Analytics |
-| **Insights** | Spending patterns • AI-powered insights |
-| **Export** | PDF • CSV • Excel |
-| **Platform** | Android |
+| **Stack** | Flutter, Supabase, Gmail OAuth, AI |
+| **Scale** | Multi-source personal expense tracking |
+| **Performance** | Automated transaction extraction and categorization |
+| **Security** | OAuth authentication and backend security |
+| **Impact** | Helps users understand spending across merchants |
+| **Repository** | Development |
 
-**Repository:** [View on GitHub](https://github.com/krishnapratapsingh788-eng)
+### Core Features
+
+- Gmail receipt processing
+- Android SMS transaction extraction
+- Manual transaction entry
+- Merchant recognition
+- Food / Grocery categorization
+- Lifetime merchant spending
+- AI-powered insights
+- PDF / CSV / Excel exports
+- Push notifications
+- Mobile application workflow
 
 </details>
 
 <details>
-<summary><b>📄 AI Document Authenticity Validator</b></summary>
+<summary><strong>AI Document Authenticity Validator</strong></summary>
 
-An AI-based document verification concept for detecting suspicious modifications and inconsistencies.
+An AI-assisted document verification solution designed to identify suspicious modifications in identity and verification documents.
 
-| Category | Details |
+| Attribute | Details |
 |---|---|
-| **Stack** | Computer Vision • OCR • Image Forensics • AI |
-| **Input** | Digital document/image |
-| **Detection** | Suspicious edits • Text inconsistencies • Image inconsistencies |
-| **Output** | Highlighted suspicious regions + review report |
-| **Use Case** | Document verification |
+| **Stack** | Computer Vision, OCR, Image Forensics, AI/ML |
+| **Scale** | Document verification workflow |
+| **Performance** | Automated suspicious-region detection |
+| **Security** | Document integrity analysis |
+| **Impact** | Reduces manual verification effort |
+| **Repository** | Hackathon / Development |
 
-**Repository:** [View on GitHub](https://github.com/krishnapratapsingh788-eng)
+### Workflow
+
+**Document Upload → AI Analysis → Suspicious Changes Detection → Text/Image Inconsistency Detection → Review Report**
 
 </details>
 
 <details>
-<summary><b>🛡️ Anti-Cheating Technical Quiz Platform</b></summary>
+<summary><strong>Anti-Cheating Technical Quiz Platform</strong></summary>
 
-A technical quiz platform concept designed for college clubs and events with a focus on reducing cheating.
+A technical quiz platform concept designed for college technical events with a focus on reducing cheating during online assessments.
 
-| Category | Details |
+| Attribute | Details |
 |---|---|
-| **Goal** | Reduce cheating during technical quizzes |
-| **Features** | Tab-switch detection • Monitoring • Alerts |
-| **Admin** | Participant monitoring & suspicious activity |
-| **Use Case** | College technical events |
-| **Focus** | Fair online assessments |
-
-**Repository:** [View on GitHub](https://github.com/krishnapratapsingh788-eng)
+| **Stack** | HTML, CSS, JavaScript, Web APIs |
+| **Scale** | College technical events |
+| **Performance** | Real-time quiz monitoring |
+| **Security** | Tab-switch and suspicious activity detection |
+| **Impact** | Promotes fair technical competitions |
+| **Repository** | Development |
 
 </details>
 
 ---
 
-## 📚 Currently Learning
+## Experience
+
+### B.Tech AI/ML Student — MUIT Lucknow
+
+**2025 – Present**
+
+Building a strong foundation in programming, artificial intelligence, machine learning, databases, web development, and software engineering.
+
+- Learning DSA with Python
+- Developing AI/ML projects
+- Practicing SQL
+- Building web applications
+- Exploring mobile development
+- Participating in hackathons
+- Exploring cloud technologies
+- Working with Git and GitHub
+- Exploring AI-assisted development
+
+**Skills:** `Python` `C` `SQL` `HTML` `CSS` `DSA` `AI/ML` `Git` `GitHub`
+
+---
+
+## Achievements
+
+| Recognition | Details |
+|---|---|
+| **Smart India Hackathon** | Exploring and developing solutions for SIH problem statements |
+| **Google Cloud Arcade** | Participating in hands-on Google Cloud learning activities |
+| **Microsoft Learn** | Building technical knowledge through Microsoft Learn |
+| **Technical Events** | Participating in technical quizzes, coding events and competitions |
+| **AI/ML Projects** | Developing practical AI-powered product concepts |
+
+---
+
+## Certifications & Learning
+
+### Google Cloud
+
+- Google Cloud learning activities
+- Google Cloud Arcade
+
+### Microsoft
+
+- Microsoft Learn
+- Python learning
+- Git & GitHub
+- Azure fundamentals
+- AI fundamentals
+- Power BI fundamentals
+
+### Technical Learning
+
+- Python
+- C Programming
+- SQL
+- HTML & CSS
+- Data Structures & Algorithms
+- Computer Fundamentals
+- DBMS
+- Networking
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+## Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-1F1F1F?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnapratapsingh788-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapratapsingh788-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapratapsingh788-eng&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD" width="100%"/>
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnapratapsingh788-eng&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnapratapsingh788-eng&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+## Contribution Overview
+
+<p align="center">
+  <a href="https://github.com/krishnapratapsingh788-eng">
+    <img src="https://ghchart.rshah.org/6D28D9/krishnapratapsingh788-eng" alt="GitHub Contribution Graph" width="100%"/>
+  </a>
+</p>
+
+---
+
+## Current Focus
 
 ```yaml
-learning:
-  programming:
-    - Python
-    - C
-    - Data Structures & Algorithms
+Learning:
+  - Data Structures & Algorithms
+  - Python
+  - SQL
+  - AI/ML Fundamentals
+  - Git & GitHub
+  - Cloud Fundamentals
 
-  artificial_intelligence:
-    - Machine Learning
-    - Computer Vision
-    - OCR
-    - Generative AI
+Building:
+  - AI-powered applications
+  - Web projects
+  - Mobile application concepts
+  - Hackathon solutions
+  - Technical event platforms
 
-  development:
-    - HTML
-    - CSS
-    - JavaScript
-    - Flutter
-    - Supabase
+Exploring:
+  - Generative AI
+  - Computer Vision
+  - OCR & Document AI
+  - Cloud Technologies
+  - Vibe Coding
+  - Product Engineering
 
-  developer_tools:
-    - Git
-    - GitHub
-    - VS Code
-    - Android Studio
-
-  cloud:
-    - Google Cloud
-    - Cloud AI Services
+Open To:
+  - AI/ML Projects
+  - Software Engineering Opportunities
+  - Open Source
+  - Hackathons
+  - Technical Collaborations
